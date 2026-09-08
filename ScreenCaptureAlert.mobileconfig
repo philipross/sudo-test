@@ -5,8 +5,6 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Setup Assistant</string>
 			<key>PayloadIdentifier</key>
 			<string>FA57BC07-CCC4-491E-A5AB-47BE9D1F4EFE</string>
 			<key>PayloadType</key>
@@ -22,7 +20,7 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>ScreenCaptureAlert-Signed</string>
+	<string>ScreenCaptureAlert-Unsigned</string>
 	<key>PayloadIdentifier</key>
 	<string>8DF35370-4F0A-4C88-AFCA-962D7CDE1413</string>
 	<key>PayloadOrganization</key>
