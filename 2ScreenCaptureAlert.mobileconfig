@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>FA57BC07-CCC4-491E-A5AB-47BE9D1F4EFE</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>FA57BC07-CCC4-491E-A5AB-47BE9D1F4EFE</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>forceBypassScreenCaptureAlert</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>ScreenCaptureAlert-Unsigned</string>
+	<key>PayloadIdentifier</key>
+	<string>8DF35370-4F0A-4C88-AFCA-962D7CDE1413</string>
+	<key>PayloadOrganization</key>
+	<string>The Digital Desk</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8DF35370-4F0A-4C88-AFCA-962D7CDE1413</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
