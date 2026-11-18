@@ -6,4 +6,4 @@ PolicyBanner = /Library/Security/PolicyBanner.rtf - this contains an example of 
 
 ScreenCaptureAlert.mobileconfig = unsigned profile containing key `forceBypassScreenCaptureAlert` with value `true`.
 
-Dialog-Manifest.plist is used for testing installation of swiftDialog via DDM.
+Dialog-Manifest.plist is used for testing installation of swiftDialog via DDM. <- Learn to read the developer notes, Philip.... ManifestURL is not applicable to macOS, so this doesn't work.
